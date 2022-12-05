@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayen11&label=Profile%20views&color=0e75b6&style=flat" alt="ayen11" /> </p>
 
+- 🔭 I’m currently working on [IDIOTIC (The Game)](https://store.steampowered.com/app/1746520/IDIOTIC_The_Game/)
+
 - 🌱 I’m currently learning **Unity, Web Development**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
