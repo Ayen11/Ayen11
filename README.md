@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **einneuman@gmail.com** and Ayen Neuman#7186 on Discord
 
+(most of my projects aren't on Github/ public)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emanuel n. m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel n. m" height="30" width="40" /></a>
