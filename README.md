@@ -5,13 +5,13 @@
 
 - For my Axis/Action rebinding tutorial code go here https://github.com/Ayen11/UE-ActionAndAxisRemapping
 
-- 🌱 I’m currently learning **C++, Web Development**
+- I’m currently learning **C++, Web Development**
 
-- 👨‍💻 All of my projects are available at https://ayen11.github.io/Portfolio-Site/
+- All of my projects are available at https://ayen11.github.io/Portfolio-Site/
 
-- 💬 Ask me about **Unreal Engine, Game Development, Web Games or how to land a No-Comply on a skateboard**
+- Ask me about **Unreal Engine, Game Development, Web Games or how to land a No-Comply on a skateboard**
 
-- 📫 How to reach me **einneuman@gmail.com** and Ayen Neuman#7186 on Discord
+- How to reach me: **einneuman@gmail.com** and Ayen Neuman#7186 on Discord
 
 
 
