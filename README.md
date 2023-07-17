@@ -11,7 +11,7 @@
 
 - Ask me about **Unreal Engine, Game Development, Web Games or how to land a No-Comply on a skateboard**
 
-- How to reach me: **einneuman@gmail.com** and Ayen Neuman#7186 on Discord
+- How to reach me: **einneuman@gmail.com** and ayenneuman on Discord
 
 
 
