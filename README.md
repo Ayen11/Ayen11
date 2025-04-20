@@ -7,7 +7,7 @@
 
 - For my explanation about Tick in Unreal Engine go here https://github.com/Ayen11/Tick-Talk
 
-- I’m currently learning **C++, Web Development and computer science B.S**
+- I’m currently learning **C++, web development and computer science B.S**
 
 - All of my projects are available at https://ayen11.github.io/Portfolio-Site/
 
