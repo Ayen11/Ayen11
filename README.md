@@ -5,13 +5,15 @@
 
 - For my Axis/Action rebinding tutorial code go here https://github.com/Ayen11/UE-ActionAndAxisRemapping
 
-- I’m currently learning **C++, Web Development**
+- For my explanation about Tick in Unreal Engine go here https://github.com/Ayen11/Tick-Talk
+
+- I’m currently learning **C++, Web Development and computer science B.S**
 
 - All of my projects are available at https://ayen11.github.io/Portfolio-Site/
 
 - Ask me about **Unreal Engine, Game Development, Web Games or how to land a No-Comply on a skateboard**
 
-- How to reach me: **einneuman@gmail.com** and ayenneuman on Discord
+- How to reach me: ayenneuman on Discord or on LinkedIn
 
 
 
